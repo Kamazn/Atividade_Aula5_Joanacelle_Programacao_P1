@@ -1,4 +1,4 @@
-<h3 align="center">💻 Aula 5 - Programação de Computadores - Joanacelle</h3>
+<h3 align="center">💻 Aula 5 - Programação de Computadores - Joanacelle (Periodo 1)</h3>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVocmhkMTBldWR3NXRkbmVhbHQ3czZtcTBmanFtcnd6NDRpMGZuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" width="150"><br>
