@@ -1,4 +1,4 @@
-<img width="266" height="38" alt="image" src="https://github.com/user-attachments/assets/17ed4c56-7dc1-40cd-a943-2d83579fa7a5" /><h3 align="center">💻 Aula 5 - Programação de Computadores - Joanacelle (Periodo 1)</h3>
+<img width="266" height="38" alt="image" src="https://i.imgur.com/8CQRXFj.png" /><h3 align="center">💻 Aula 5 - Programação de Computadores - Joanacelle (Periodo 1)</h3>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="18" style="vertical-align: middle;">
