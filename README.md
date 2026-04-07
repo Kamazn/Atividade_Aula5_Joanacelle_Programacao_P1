@@ -5,5 +5,5 @@
   <p align="center">
   🐍 Exercícios resolvidos em <b>Python </b><br>
     🚀 Focado em prática, lógica e aprendizado<br><br>
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif](https://lottiefiles.com/free-animations/python" width="100">
 </p>
