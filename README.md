@@ -1,10 +1,14 @@
-<img width="266" height="38" alt="image" src="https://i.imgur.com/8CQRXFj.png" /><h3 align="center">💻 Aula 5 - Programação de Computadores - Joanacelle (Periodo 1)</h3>
+<h3 align="center">
+  <img src="https://i.imgur.com/8CQRXFj.png" width="20" style="vertical-align: middle;">
+  Aula 5 - Programação de Computadores - Joanacelle (Periodo 1)
+</h3>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="18" style="vertical-align: middle;">
   Exercícios resolvidos em <b>Python</b><br>
- <img src="https://i.imgur.com/8CQRXFj.png" width="20" style="vertical-align: middle;">
-  Focado em prática, lógica e aprendizado<br><br>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVocmhkMTBldWR3NXRkbmVhbHQ3czZtcTBmanFtcnd6NDRpMGZuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" width="150"><br>
 
+  <img src="https://i.imgur.com/8CQRXFj.png" width="18" style="vertical-align: middle;">
+  Focado em prática, lógica e aprendizado<br><br>
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVocmhkMTBldWR3NXRkbmVhbHQ3czZtcTBmanFtcnd6NDRpMGZuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" width="120">
 </p>
