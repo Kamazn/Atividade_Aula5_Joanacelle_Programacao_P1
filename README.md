@@ -5,4 +5,7 @@
   🐍 Exercícios resolvidos em <b>Python </b><br>
   🚀 Focado em prática, lógica e aprendizado<br><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="80">
+
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="20" style="vertical-align: middle;">
+  Exercícios resolvidos em <b>Python</b><br>
 </p>
